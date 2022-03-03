@@ -38,4 +38,4 @@ npm run build:stage
 npm run build:prod
 ```
 
-Copyright (c) 2020 TalkPython
+关注微信公众号:TalkPython 获取更多信息。
