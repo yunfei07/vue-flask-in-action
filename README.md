@@ -14,7 +14,7 @@ flask run
 
 ```bash
 # clone the project
-git clone https://github.com/talkpythons/vue-flask-in-action.git
+git https://github.com/yunfei07/vue-flask-in-action.git
 
 # enter the project directory
 cd vue-flask-in-action
